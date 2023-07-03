@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0381e9-b30f-4e66-b042-41e480cd2530" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Alimentos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/ControleLista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Graos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Legumes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Outros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Verdura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/ValidadorNome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/ValidadorQuantidade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excecoes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Excecoes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Alimentos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Alimentos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex01_listaDeCompras/ControleLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/AdicionaItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Graos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Graos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Legumes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Legumes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Outros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Outros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Verdura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex01_listaDeCompras/Verdura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
